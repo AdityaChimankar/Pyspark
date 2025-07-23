@@ -1,6 +1,6 @@
-# Technical Documentation: Building a New Joiner Chatbot
+# Technical Documentation: Building a support buddy chatbot
 
-**Date**: July 19, 2025
+
 
 ## 1 Overview
 This document provides a comprehensive guide for building a chatbot to assist new joiners, leveraging Google Cloud services, including Vertex AI, Google Cloud Storage (GCS), BigQuery, and Dialogflow CX, with integration to Microsoft Teams and Google Calendar/Outlook. The chatbot delivers personalized responses based on employee data, supports onboarding, and handles queries about insurance policies, team tech stacks, IT support, and emergency contacts. It is designed for scalability, security, and multilingual support, ensuring compliance with data privacy regulations such as GDPR and HIPAA. Microsoft Teams serves as the primary and sole interface for user interactions.
